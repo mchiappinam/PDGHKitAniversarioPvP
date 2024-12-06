@@ -1,0 +1,12 @@
+name: PDGHKitAniversario
+main: me.mchiappinam.pdghkitaniversario.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.net/
+commands:
+   aniversario:
+      description: Info.
+      usage: /<command>
+   aniversariovip:
+      description: Info.
+      usage: /<command>
